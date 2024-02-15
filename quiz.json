@@ -1,0 +1,33 @@
+[
+  {
+    "Question" : "India's Capital?" ,
+    "Options" : [
+      "NewDelhi" ,
+      "Chennai" ,
+      "Hyderabad" ,
+      "Kolkata"
+    ] ,
+    "Answer" : 1
+  } ,
+  {
+    "Question" : "Largest State in India?" ,
+    "Options" : [
+      "NewDelhi" ,
+      "AndhraPradesh" ,
+      "UttarPradesh" ,
+      "MadhyaPradesh"
+    ] ,
+    "Answer" : 3
+  },
+    {
+    "Question" : "Which of the following is low-level-language?" ,
+    "Options" : [
+      "C" ,
+      "Python" ,
+      "Java" ,
+      "Machine Language"
+    ] ,
+    "Answer" : 4
+  }
+]
+
